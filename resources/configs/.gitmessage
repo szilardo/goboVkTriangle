@@ -1,0 +1,27 @@
+######################################### Short Description [ 80 chars max ] ###########################################
+#================================ 80 characters ================================#                                      #
+## Short description about the change topic. Should be made on a single line.                                         ##
+
+
+
+
+##                                                                                                                    ##
+##################################### Detailed Description [ 120 chars per line ]  #####################################
+#=================================================== 120 characters ===================================================#
+## A more detailed description of what the change is meant to do, and why it is necessary.                            ##
+## If the changes are related to any issues that are tracked in some system, the tracking ids should be placed on     ##
+## the first line of the detailed description, between square brackets. If multiple ids are present, separate each    ##
+## bracket enclosed id with a comma.                                                                                  ##
+##                                                                                                                    ##
+## Example:                                                                                                           ##
+# Increase the foo concentration in the fleeb                                                                         ##
+#                                              -- EMPTY LINE --                                                       ##
+# [1415], [WRT-1941], [UBA-101]                                                                                       ##
+# * Implemented the optional foo-pouch, to allow the fleeb to contain a higher dose of foo.                           ##
+# * Added more foo to the fleeb. Increasing the foo concentration will allow us to transfer the mula with increased   ##
+# efficiency.                                                                                                         ##
+*
+
+
+##                                                                                                                    ##
+########################################################################################################################

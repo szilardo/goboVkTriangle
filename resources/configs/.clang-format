@@ -1,0 +1,84 @@
+---
+Language:        Cpp
+AccessModifierOffset: -4
+AlignAfterOpenBracket: Align
+# AlignEscapedNewlines: Left
+AlignOperands:   true
+AlignTrailingComments: true
+AllowAllParametersOfDeclarationOnNextLine: true
+AllowShortBlocksOnASingleLine: false
+AllowShortCaseLabelsOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: Empty
+AlwaysBreakAfterDefinitionReturnType: None
+AlwaysBreakTemplateDeclarations: true
+AlwaysBreakBeforeMultilineStrings: false
+BraceWrapping: {
+AfterClass: true,
+AfterControlStatement: true,
+AfterEnum: true,
+AfterFunction: true,
+AfterNamespace: true,
+AfterStruct: true,
+AfterUnion: true,
+BeforeCatch: true,
+BeforeElse: true,
+IndentBraces: false,
+}
+# SplitEmptyFunctionBody: false
+BreakBeforeBinaryOperators: None
+# BreakBeforeInheritanceComma: true
+BreakBeforeTernaryOperators: false
+# BreakConstructorInitializers: BeforeComma
+BinPackParameters: false
+BinPackArguments: false
+BreakStringLiterals: true
+ColumnLimit:     120
+ConstructorInitializerAllOnOneLineOrOnePerLine: true
+ConstructorInitializerIndentWidth: 4
+# CompactNamespaces: false
+DerivePointerAlignment: false
+ExperimentalAutoDetectBinPacking: false
+# FixNamespaceComments: true
+IndentCaseLabels: true
+IndentWrappedFunctionNames: false
+IndentFunctionDeclarationAfterType: false
+MaxEmptyLinesToKeep: 1
+KeepEmptyLinesAtTheStartOfBlocks: false
+NamespaceIndentation: None
+ObjCBlockIndentWidth: 2
+ObjCSpaceAfterProperty: false
+ObjCSpaceBeforeProtocolList: true
+PenaltyBreakBeforeFirstCallParameter: 510
+PenaltyBreakComment: 300
+PenaltyBreakString: 310
+PenaltyBreakFirstLessLess: 410
+PenaltyExcessCharacter: 1000000
+PenaltyReturnTypeOnItsOwnLine: 60
+PointerAlignment: Left
+SpacesBeforeTrailingComments: 1
+Cpp11BracedListStyle: true
+Standard:        Cpp11
+IndentWidth:     4
+ReflowComments: true
+TabWidth:        4
+SortIncludes: true
+# SortUsingDeclarations: false
+UseTab:          Never
+BreakBeforeBraces: Custom
+SpacesInParentheses: false
+SpacesInSquareBrackets: false
+SpacesInAngles:  false
+SpaceInEmptyParentheses: false
+SpacesInCStyleCastParentheses: false
+SpaceAfterCStyleCast: true
+SpaceAfterTemplateKeyword: false
+SpacesInContainerLiterals: false
+SpaceBeforeAssignmentOperators: true
+ContinuationIndentWidth: 4
+CommentPragmas:  '^ CLANG pragma:'
+ForEachMacros:   [ foreach, Q_FOREACH, BOOST_FOREACH ]
+SpaceBeforeParens: ControlStatements
+DisableFormat:   false
+...
